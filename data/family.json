@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "phone": "555-111-1111",
+      "birthdate": "01/15/1985",
+      "id": 5,
+      "associated_id": 1
+    },
+    {
+      "name": "Michael Davis",
+      "email": "michael.davis@example.com",
+      "phone": "555-222-2222",
+      "birthdate": "05/20/1990",
+      "id": 6,
+      "associated_id": 2
+    },
+    {
+      "name": "Sarah Miller",
+      "email": "sarah.miller@example.com",
+      "phone": "555-333-3333",
+      "birthdate": "03/10/1982",
+      "id": 7,
+      "associated_id": 3
+    },
+    {
+      "name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "phone": "555-444-4444",
+      "birthdate": "11/05/1988",
+      "id": 8,
+      "associated_id": 4
+    }
+  ]

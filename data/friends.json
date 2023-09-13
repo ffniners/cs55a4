@@ -1,0 +1,35 @@
+[
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "555-123-4567",
+      "birthdate": "08/15/1985",
+      "id": 9,
+      "associated_id": 2
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "555-987-6543",
+      "birthdate": "02/20/1990",
+      "id": 10,
+      "associated_id": 1
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "phone": "555-555-5555",
+      "birthdate": "11/30/1980",
+      "id": 11,
+      "associated_id": 4
+    },
+    {
+      "name": "Eve Anderson",
+      "email": "eve@example.com",
+      "phone": "555-789-0123",
+      "birthdate": "06/10/1995",
+      "id": 12,
+      "associated_id": 3
+    }
+  ]
+  
