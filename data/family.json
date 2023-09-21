@@ -1,34 +1,73 @@
 [
-    {
-      "name": "Emily Johnson",
-      "email": "emily.johnson@example.com",
-      "phone": "555-111-1111",
-      "birthdate": "01/15/1985",
-      "id": 5,
+    { "id": 1,
+      "favorite-food": "Cheese Burger",
+      "favorite-place": "Disneyland",
+      "favorite-animal": "dog",
+      "favorite-hobby": "roller skating",
       "associated_id": 1
     },
-    {
-      "name": "Michael Davis",
-      "email": "michael.davis@example.com",
-      "phone": "555-222-2222",
-      "birthdate": "05/20/1990",
-      "id": 6,
+    { "id": 2,
+      "favorite-food": "Sushi",
+      "favorite-place": "Hawaii",
+      "favorite-animal": "Cat",
+      "favorite-hobby": "Surfing",
       "associated_id": 2
     },
-    {
-      "name": "Sarah Miller",
-      "email": "sarah.miller@example.com",
-      "phone": "555-333-3333",
-      "birthdate": "03/10/1982",
-      "id": 7,
+    { "id": 3,
+      "favorite-food": "Pizza",
+      "favorite-place": "New York City",
+      "favorite-animal": "Penguin",
+      "favorite-hobby": "Photography",
       "associated_id": 3
     },
-    {
-      "name": "David Wilson",
-      "email": "david.wilson@example.com",
-      "phone": "555-444-4444",
-      "birthdate": "11/05/1988",
-      "id": 8,
+    { "id": 4,
+      "favorite-food": "Tacos",
+      "favorite-place": "Mexico",
+      "favorite-animal": "Dolphin",
+      "favorite-hobby": "Dancing",
       "associated_id": 4
+    },
+    { "id": 5,
+      "favorite-food": "Sushi",
+      "favorite-place": "Tokyo",
+      "favorite-animal": "Fox",
+      "favorite-hobby": "Karaoke",
+      "associated_id": 5
+    },
+    { "id": 6,
+      "favorite-food": "Steak",
+      "favorite-place": "Paris",
+      "favorite-animal": "Lion",
+      "favorite-hobby": "Painting",
+      "associated_id": 6
+    },
+    { "id": 7,
+      "favorite-food": "Burger",
+      "favorite-place": "Los Angeles",
+      "favorite-animal": "Horse",
+      "favorite-hobby": "Hiking",
+      "associated_id": 7
+    },
+    { "id": 8,
+      "favorite-food": "Pasta",
+      "favorite-place": "Rome",
+      "favorite-animal": "Elephant",
+      "favorite-hobby": "Cooking",
+      "associated_id": 8
+    },
+    {
+      "id": 9,
+      "favorite-food": "Sushi",
+      "favorite-place": "Kyoto",
+      "favorite-animal": "Koala",
+      "favorite-hobby": "Gardening",
+      "associated_id": 9
+    },
+    { "id": 10,
+      "favorite-food": "Burger",
+      "favorite-place": "San Francisco",
+      "favorite-animal": "Owl",
+      "favorite-hobby": "Reading",
+      "associated_id": 10
     }
   ]

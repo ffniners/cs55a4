@@ -1,9 +1,9 @@
 [
     {
       "name": "Anna Johnson",
-      "email": "anna.j@example.com",
+      "emial": "anna.j@example.com",
       "phone": "555-111-1111",
-      "birthdate": "01/15/1985",
+      "birthdate": "06/20/1990",
       "id": 1
     },
     {

@@ -1,35 +1,75 @@
 [
-    {
-      "name": "John Doe",
-      "email": "john@example.com",
-      "phone": "555-123-4567",
-      "birthdate": "08/15/1985",
-      "id": 9,
-      "associated_id": 2
-    },
-    {
-      "name": "Alice Johnson",
-      "email": "alice@example.com",
-      "phone": "555-987-6543",
-      "birthdate": "02/20/1990",
-      "id": 10,
-      "associated_id": 1
-    },
-    {
-      "name": "Bob Smith",
-      "email": "bob@example.com",
-      "phone": "555-555-5555",
-      "birthdate": "11/30/1980",
-      "id": 11,
-      "associated_id": 4
-    },
-    {
-      "name": "Eve Anderson",
-      "email": "eve@example.com",
-      "phone": "555-789-0123",
-      "birthdate": "06/10/1995",
-      "id": 12,
-      "associated_id": 3
-    }
+  {  
+    "id": 1,
+    "age": 20,
+    "height": "5'8\"",
+    "weight": 125,
+    "hundredmdash": "10s",
+    "associated_id": 1
+  },
+  { 
+    "id": 2,
+    "age": 22,
+    "height": "5'10\"",
+    "weight": 140,
+    "hundredmdash": "10.5s",
+    "associated_id": 2
+  },
+  { 
+    "id": 3,
+    "age": 19,
+    "height": "5'6\"",
+    "weight": 120,
+    "hundredmdash": "9.8s",
+    "associated_id": 3
+  },
+  {
+    "id": 4,
+    "age": 21,
+    "height": "5'9\"",
+    "weight": 130,
+    "hundredmdash": "10.2s",
+    "associated_id": 4
+  },
+  {
+    "id": 5, 
+    "age": 23,
+    "height": "6'0\"",
+    "weight": 150,
+    "hundredmdash": "10.8s",
+    "associated_id": 5
+  },
+  {
+    "id": 6, 
+    "age": 18,
+    "height": "5'7\"",
+    "weight": 115,
+    "hundredmdash": "9.5s",
+    "associated_id": 6
+  },
+  {
+    "id": 7,
+    "age": 24,
+    "height": "6'2\"",
+    "weight": 160,
+    "hundredmdash": "11s",
+    "associated_id": 7
+  },
+  {
+    "id": 8,
+    "age": 20,
+    "height": "5'11\"",
+    "weight": 135,
+    "hundredmdash": "10.3s",
+    "associated_id": 8
+  },
+  { 
+    "id": 9, 
+    "age": 22,
+    "height": "5'9\"",
+    "weight": 140,
+    "hundredmdash": "10.6s",
+    "associated_id": 9
+  }
   ]
   
